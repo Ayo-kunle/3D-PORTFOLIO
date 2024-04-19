@@ -199,7 +199,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Digital Receipts and Warranty Tracker",
+    name: "Digital Receipt & Tracker",
     description:
       "The Digital Receipts and Warranty Tracker project aims to develop a comprehensive application that assists users in managing their purchase receipts, warranties, and service reminders efficiently.",
     tags: [
@@ -222,7 +222,7 @@ const projects = [
   {
     name: "Hoo-Bank",
     description:
-      "Using React & Tailwind CSS, a modern mobile responsive UI/UX Website - from start to finish. The App is called Hoo-Bank and it is a simple landing page for a bank app.",
+      "Using cutting-edge technologies React & Tailwind CSS, a modern mobile responsive UI/UX Website - from start to finish. The App is called Hoo-Bank and it is a simple landing page for a bank app.",
     tags: [
       {
         name: "react",
