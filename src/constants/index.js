@@ -199,9 +199,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Digital Receipts and Warranty Tracker",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The Digital Receipts and Warranty Tracker project aims to develop a comprehensive application that assists users in managing their purchase receipts, warranties, and service reminders efficiently.",
     tags: [
       {
         name: "react",
@@ -220,9 +220,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Hoo-Bank",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Using React & Tailwind CSS, a modern mobile responsive UI/UX Website - from start to finish. The App is called Hoo-Bank and it is a simple landing page for a bank app.",
     tags: [
       {
         name: "react",
@@ -233,7 +233,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
@@ -241,9 +241,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Platinode",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This is a code repository for a tokenized crowdfunding app. The goal of this smart contract is to allow global access to project funding whether as an individual, group or organization.",
     tags: [
       {
         name: "nextjs",
